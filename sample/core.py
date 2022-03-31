@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
+''' core module, imports evaluate if helpers.get_answer function '''
+
 from . import helpers
-""" core module, imports evaluate if helpers.get_answer function """
+
 
 def get_hmm():
     """Get a thought."""
