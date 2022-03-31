@@ -1,3 +1,3 @@
-from .core import hmm
 '''init the module'''
+from .core import hmm
 
